@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpunit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/httpunit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

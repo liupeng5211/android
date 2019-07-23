@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">NAD</string>
+    <string name="close">close</string>
+    <string name="copyright">Copyright@2019 LiuPeng. All rights reserved.</string>
+    <string name="loading">正在加载..</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">视频</string>
+    <string name="title_notifications">图片</string>
+    <string name="back">〈</string>
+    <string name="collections">搜藏</string>
+    <string name="toolbar_function">||</string>
+    <string name="todo">TODO</string>
+    <string name="edit_hint">请输入关键字</string>
+    <string name="login_head_info">登录你的信息，精彩永不断续</string>
+    <string name="user_name">用户名</string>
+    <string name="user_pwd">密码</string>
+    <string name="delete">删除</string>
+    <string name="user_word">我的个性签名</string>
+    <string name="select_head_image">选择头像</string>
+    <string name="register">注册</string>
+    <string name="comment_bt">评论</string>
+    <string name="help_title">欢迎使用NAD新闻浏览APP帮助说明</string>
+    <string name="alter">修改</string>
+    <string name="define">确定</string>
+    <string name="all_delete">全部删除</string>
+    <string name="exit">注销</string>
+    <string name="input_activity_tip">请在下方输入URL地址:</string>
+    <string name="help_content">1.首先允许软件的权限。
+        2.点击图标运行程序，软件开始运行。
+        3.出现新闻界面后，用户点击新闻标题就可以进行浏览，浏览时可以进行新闻的评论，收藏，分享等，但评论，收藏，浏览历史，设置等功能需要登录才能操作。对新闻中的图片点击即可进行图片放大。
+        4.点击编辑框输入关键字即可进行新闻的搜索。
+        5.只要点击新闻下方的新闻类型栏就可以切换新闻的类型，切换类别左右滑动屏幕即可。
+        6.用户在菜单栏点击头像即可输入用户密码登录，也可进行注册。菜单栏可以查看新闻的收藏评论和浏览历史。在设置界面即可修改用户的信息。</string>
+    <string-array name="function">
+        <item>收藏</item>
+        <item>分享</item>
+        <item>评论</item>
+    </string-array>
+</resources>
